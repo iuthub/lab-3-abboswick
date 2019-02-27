@@ -1,0 +1,50 @@
+body{
+	background-image: url("images/bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	margin: 0 10%;
+	
+}
+*{
+	box-sizing: border-box;
+}
+
+.box1{
+	border: 4px rgb(249, 252, 249) solid;
+	border 10px;
+	background-color: white;
+}
+.box2{
+	border: 4px #A8F0F0 solid;
+	background-color:#A8F0F0;
+	font-size: 14pt 
+}
+
+.box4{
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+
+.text{
+	box-sizing: border-box;
+	margin-right: 10px;
+
+}
+.box5{
+ border-bottom: 4px rgb(89, 210, 247) dashed;	
+}
+.box6{
+	border: 4px blue solid;
+	background-color: #E8FBFB;
+	padding: 5px;
+    margin-top: 10px;
+}
+
+.image-block{
+	float: right;
+}
